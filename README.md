@@ -1,3 +1,3 @@
 # TwineTest
 
-![Image of Twine environment](Twine_screenshot.png)
+![Image of Twine environment](Twine_ScreenShot.png)
